@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/books/static/css/main.e7cff403.chunk.css",
+    "main.js": "/books/static/js/main.355198d6.chunk.js",
+    "main.js.map": "/books/static/js/main.355198d6.chunk.js.map",
+    "runtime-main.js": "/books/static/js/runtime-main.462624b3.js",
+    "runtime-main.js.map": "/books/static/js/runtime-main.462624b3.js.map",
+    "static/css/2.9c8c8187.chunk.css": "/books/static/css/2.9c8c8187.chunk.css",
+    "static/js/2.8d255e09.chunk.js": "/books/static/js/2.8d255e09.chunk.js",
+    "static/js/2.8d255e09.chunk.js.map": "/books/static/js/2.8d255e09.chunk.js.map",
+    "index.html": "/books/index.html",
+    "precache-manifest.85146708d3537efb528ce8b124eec05a.js": "/books/precache-manifest.85146708d3537efb528ce8b124eec05a.js",
+    "service-worker.js": "/books/service-worker.js",
+    "static/css/2.9c8c8187.chunk.css.map": "/books/static/css/2.9c8c8187.chunk.css.map",
+    "static/css/main.e7cff403.chunk.css.map": "/books/static/css/main.e7cff403.chunk.css.map",
+    "static/js/2.8d255e09.chunk.js.LICENSE.txt": "/books/static/js/2.8d255e09.chunk.js.LICENSE.txt",
+    "static/media/girl-blond.png": "/books/static/media/girl-blond.14da485c.png",
+    "static/media/girl-brunette.png": "/books/static/media/girl-brunette.4c19fa3f.png",
+    "static/media/usa.png": "/books/static/media/usa.5181ed06.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.462624b3.js",
+    "static/css/2.9c8c8187.chunk.css",
+    "static/js/2.8d255e09.chunk.js",
+    "static/css/main.e7cff403.chunk.css",
+    "static/js/main.355198d6.chunk.js"
+  ]
+}
