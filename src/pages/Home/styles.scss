@@ -1,0 +1,19 @@
+.home {
+  padding-top: 65px;
+  height: calc(100% - 65px);
+  width: 100%;
+}
+
+@media (max-width: 700px) {
+  .home {
+    padding-top: 121px;
+    height: calc(100% - 121px);
+  }
+}
+
+@media (max-width: 500px) {
+  .home {
+    padding-top: 155px;
+    height: calc(100% - 155px);
+  }
+}
